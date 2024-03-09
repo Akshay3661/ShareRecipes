@@ -4,7 +4,7 @@ class Database {
     private $host = "localhost";
     private $username = "root";
     private $password = "";
-    private $dbName = "RecipePointDB";
+    private $dbName = "ShareRecipeDB";
     public $conn;
 
 
